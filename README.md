@@ -17,6 +17,6 @@ Entire code is written by us. Used online d3 library.
 
 Project website URL: https://kiranmayee-dobbali.github.io/Olympics_Data_Visualization/
 
--------- Project Contributors --------
+-------- Project Contributor --------
 
-Sai Vamshi D - u1266122   Kiranmayee D - u1265299
+Jai Saxena
